@@ -1,0 +1,4 @@
+GET http://localhost:8080/users
+
+###
+http://viacep.com.br/ws/7961070/json/

@@ -9,10 +9,10 @@ export default function Editar(){
                 
                 <header className="">
                     <nav className="flex justify-between">
-                        <h1 className="font-bold text-3xl">Editar Perfil</h1>
+                        <h1 className="font-bold text-3xl">Cadastro</h1>
                         <Link href="/">
-                        <button className="text-3xl hover:bg-red-500 rounded-full h-10 w-10
-                         hover:text-white duration-300">x</button>
+                            <button className="text-3xl hover:bg-red-500 rounded-full h-10 w-10
+                            hover:text-white duration-300">x</button>
                         </Link>
                     </nav>
                     <p>Deseja atualizar o perfil?</p>
